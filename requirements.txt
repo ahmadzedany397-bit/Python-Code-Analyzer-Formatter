@@ -1,6 +1,3 @@
-requirements:
-
-
 black
 radon
 streamlit
