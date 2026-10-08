@@ -2,7 +2,7 @@
 
 A lightweight, interactive web application that acts as a real-time linter, formatter, and complexity analyzer for Python code. Built entirely in Python, this tool instantly restructures messy code to strict PEP-8 standards while mathematically grading the complexity of its underlying logic.
 
-**[View the Live Web App Here](INSERT_YOUR_STREAMLIT_URL_HERE)**
+**[View the Live Web App Here](https://ahmadzedany397-bit-python-code-analyzer-formatter-main-hhpwb7.streamlit.app/)**
 
 ## Features
 
@@ -23,7 +23,7 @@ A lightweight, interactive web application that acts as a real-time linter, form
 1. **Clone the repository** and navigate into the project directory:
 
    ```bash
-   git clone https://github.com/ahmadzedany397-bit/python-code-analyzer.git
+   git clone git clone https://github.com/ahmadzedany397-bit/Python-Code-Analyzer-Formatter.git
    cd python-code-analyzer
    ```
 
